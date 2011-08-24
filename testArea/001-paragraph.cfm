@@ -1,4 +1,6 @@
-﻿<a href="./bacon.pdf">View PDF</a>
+﻿<!--- Example similar to the book iText in Action second edition page 8 --->
+
+<a href="./bacon.pdf">View PDF</a>
 <br>
 <!--- Generate some content from the meatiest Lorem Ipsum Generator ever: http://baconipsum.com --->
 <cfsavecontent variable="paragraph1">

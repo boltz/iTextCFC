@@ -4,3 +4,4 @@ testing/resources/logs/*.log
 settings.xml
 .project
 *.tmp
+*.pdf
