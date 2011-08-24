@@ -36,15 +36,11 @@ Bacon ipsum dolor sit amet prosciutto pastrami strip steak, tongue ground round 
 <!--- Create a phrase object and add this to the direct content, named canvas,
 using the stating method ColumnText.showTextAligned(). The phrase variable will be 
 added left aligned at coordinates (36,788) with rotation 0.
-
-TODO: Dumping the Canvas java object shows me a fields section.  That has 
-	constants ALIGN_LEFT = 0 etc.. how do I reference this? 
 --->
 <cfset columnText = createObject("java", "com.itextpdf.text.pdf.ColumnText")> 
 <cfset ALIGN_LEFT = javacast("int",0)>
 <cfdump var="#columnText#">
-<cfdump var="#canvas#">
-<cfset columnText.showTextAligned(canvas,ALIGN_LEFT,phrase,36, 788,0)>
+<cfset columnText.showTextAligned(canvas,canvas.Align_LEFT,phrase,36, 788,0)>
 
 <!--- /////////////////////////////// --->
 <!--- /////////////////////////////// --->
