@@ -2,6 +2,12 @@ iTextCFC is a ColdFusion Wrapper for the IText Java Library.  iText is used by
 Adobe ColdFusion in the CFDocument and CFPDF tags, however the Adobe Tags do not
 do everything that iText can do.
 
+The testArea code is ColdFusion examples of the Java examples from http://itextpdf.com/book/
+Comments in the code should tell you what page of the book the example is taken from.
+
+The final desired product of this project is a CFC that allows you to easily use all the functions of the
+Itext Library.
+
 Requirements: 
 
 ColdFusion 9 and below use and older version of the iText Java Library. 
