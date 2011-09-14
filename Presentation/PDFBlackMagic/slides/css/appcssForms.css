@@ -1,0 +1,72 @@
+.FormTable
+	{ BORDER: 0px; MARGIN: 0px; PADDING: 0px; }
+
+.ListCell
+	{ TEXT-ALIGN: right; VERTICAL-ALIGN: top; WIDTH: 15px }
+
+.NoBorder
+	{ BORDER: 0px; MARGIN: 5px 0px 0px; PADDING: 5px }
+	
+.ParagraphLeft
+	{ TEXT-ALIGN: left; FONT-SIZE: 10pt; }
+
+.ParagraphCenter
+	{ TEXT-ALIGN: center; FONT-SIZE: 10pt; }
+
+.ParagraphRight
+	{ TEXT-ALIGN: right; FONT-SIZE: 10pt; }
+
+.ParagraphLeftIndent
+	{ TEXT-ALIGN: left; FONT-SIZE: 10pt; TEXT-INDENT: 30px; }
+
+.ParagraphCenterIndent
+	{ TEXT-ALIGN: center; FONT-SIZE: 10pt; TEXT-INDENT: 30px; }
+
+.ParagraphRightIndent
+	{ TEXT-ALIGN: right; FONT-SIZE: 10pt; TEXT-INDENT: 30px; }
+
+.ParagraphLeftIndent1
+	{ TEXT-ALIGN: left; FONT-SIZE: 10pt; PADDING-LEFT: 20px; }
+
+.ParagraphLeftIndent2
+	{ TEXT-ALIGN: left; FONT-SIZE: 10pt; PADDING-LEFT: 40px; }
+
+.ParagraphLeftIndent3
+	{ TEXT-ALIGN: left; FONT-SIZE: 10pt; PADDING-LEFT: 60px; }
+
+.ParagraphLeftIndent4
+	{ TEXT-ALIGN: left; FONT-SIZE: 10pt; PADDING-LEFT: 80px; }
+
+.HeaderLeft
+	{ TEXT-ALIGN: left; FONT-SIZE: 12pt; }
+
+.HeaderCenter
+	{ TEXT-ALIGN: center; FONT-SIZE: 12pt; }
+
+.HeaderRight
+	{ TEXT-ALIGN: right; FONT-SIZE: 12pt; }
+ 
+.HeaderLeftBold
+	{ TEXT-ALIGN: left; FONT-SIZE: 12pt; FONT-WEIGHT: bold; }
+
+.HeaderCenterBold
+	{ TEXT-ALIGN: center; FONT-SIZE: 12pt; FONT-WEIGHT: bold; }
+
+.HeaderRightBold
+	{ TEXT-ALIGN: right; FONT-SIZE: 12pt; FONT-WEIGHT: bold; }
+
+.ListRegular
+	{ MARGIN: 2 2 2 20px; FONT-SIZE: 10pt; }
+
+.ListIndent
+	{ MARGIN: 2 2 2 45px; FONT-SIZE: 10pt; }
+
+.ListIndent1
+	{ MARGIN: 2 2 2 25px; FONT-SIZE: 10pt; TEXT-ALIGN: left; }
+
+.ListIndent2
+	{ MARGIN: 2 2 2 45px; FONT-SIZE: 10pt; TEXT-ALIGN: left; }
+
+{ FONT-FAMILY:"Arial" }
+
+<!-- This must ALWAYS be the last rule on this page!!! -->
