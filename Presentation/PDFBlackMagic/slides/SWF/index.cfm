@@ -1,4 +1,6 @@
-﻿<!-- Example similar to the book iText in Action second edition chapter 16-->
+﻿<!-- Example similar to FestivalCalendar2.java the book iText in Action second edition chapter 16
+ See:https://itext.svn.sourceforge.net/svnroot/itext/book/src/part4/chapter16/MovieAnnotation.java
+ -->
 
 
 <cfset resource = expandPath("./base.swf")>
