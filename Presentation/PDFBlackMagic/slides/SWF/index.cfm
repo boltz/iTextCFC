@@ -1,6 +1,7 @@
-﻿<!--- Example similar to the book iText in Action second edition page 8 --->
+﻿<!--- Example similar to the book iText in Action second edition chapter 16--->
 
-<cfset resource = "C:\inetpub\wwwroot\iTextCFC\Presentation\PDFBlackMagic\slides\SWF\base.swf">
+
+<cfset resource = expandPath("./base.swf")>
 <cfset x1 = javacast("float",0)>
 <cfset y1 = javacast("float",100)>
 <cfset x2 = javaCast("float",500)>
