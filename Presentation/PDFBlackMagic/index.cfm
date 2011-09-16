@@ -28,6 +28,10 @@
 		<cfinclude template="./Slides/010.cfm">
 		<cfinclude template="./Slides/011.cfm">
 		<cfinclude template="./Slides/012.cfm">
+		<cfinclude template="./Slides/013.cfm">
+		<cfinclude template="./Slides/014.cfm">
+		<cfinclude template="./Slides/015.cfm">
+		<cfinclude template="./Slides/016.cfm">
       </div>
     </div>
     
